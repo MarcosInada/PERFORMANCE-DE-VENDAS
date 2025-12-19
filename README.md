@@ -42,7 +42,8 @@ Power Query: Tratamento de duas fontes distintas: os dados de Vendas Reais e a b
 
 Modelagem de Dados: Integração das tabelas Fato de Vendas e Fato de Metas através de dimensões comuns (Produtos e Calendário), seguindo as melhores práticas de BI.
 ![Performance de Vendas](performance.png)  
-![Performance de Vendas](performance.png.2)  
+![Performance de Vendas](performance.png.2.png)  
+ 
 
 
 

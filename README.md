@@ -33,7 +33,6 @@ Média Planejada vs. Realizada: Comparativo de eficiência por transação.
 Desempenho vs. Meta: Indicador percentual de atingimento (Gap Analysis).
 
 # 💡 Insights e Recursos Visuais
-🖼️ Telas do Projeto
 📈 Diferenciais Analíticos
 Análise de Velocímetros: Uso de Gauge Charts para visualização imediata do status da meta global.
 

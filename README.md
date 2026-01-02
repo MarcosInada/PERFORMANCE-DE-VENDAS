@@ -33,21 +33,15 @@ Média Planejada vs. Realizada: Comparativo de eficiência por transação.
 Desempenho vs. Meta: Indicador percentual de atingimento (Gap Analysis).
 
 # 💡 Insights e Recursos Visuais
-📈 Diferenciais Analíticos
-Análise de Velocímetros: Uso de Gauge Charts para visualização imediata do status da meta global.
 
-Gráficos de Comparação: Barras com linhas de meta que permitem identificar quais categorias de produtos estão abaixo ou acima do planejado.
-
-Auditoria Granular: Tabela de performance que cruza planejado e realizado lado a lado para facilitar a identificação de gargalos.
-Conclusões Estratégicas extraídas:
+📈 Conclusões Estratégicas extraídas:
 Identificação de Gaps de Performance: Através da comparação entre a Média Planejada e a Média Realizada, é possível identificar se a força de vendas está conseguindo manter o ticket médio esperado ou se está concedendo descontos excessivos para atingir o volume, o que impacta diretamente a margem de lucro.
 
 Análise de Pareto em Categorias: O dashboard revela quais categorias de produtos são "âncoras" (metas batidas com facilidade) e quais são "críticas" (abaixo do planejado). Isso permite ao gestor realocar investimentos de marketing ou treinar a equipe de vendas em produtos específicos.
 
 Previsibilidade e Tendência: O uso de Velocímetros (Gauge Charts) fornece um feedback imediato sobre a velocidade das vendas. Se na metade do mês o atingimento está abaixo de 50%, o dashboard sinaliza a necessidade de uma ação promocional imediata antes do fechamento do período.
 
-Equidade de Metas: Ao cruzar o Objetivo de Venda com diferentes regiões ou vendedores, o projeto permite auditar se as metas foram bem distribuídas (metas realistas) ou se existem desvios geográficos que exigem uma revisão no planejamento estratégico do próximo ciclo. 
-
+Equidade de Metas: Ao cruzar o Objetivo de Venda com diferentes regiões ou vendedores, o projeto permite auditar se as metas foram bem distribuídas (metas realistas) ou se existem desvios geográficos que exigem uma revisão no planejamento estratégico do próximo ciclo.
 # ⚙️ Inteligência de Dados
 Modelagem Star Schema: Integração de tabelas Fato (Vendas e Metas) com dimensões comuns (Produtos e Calendário).
 

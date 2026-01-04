@@ -1,6 +1,7 @@
 # PERFORMANCE-DE-VENDAS
 
-# 📈 Performance de Vendas: Planejado vs. Realizado
+# 📈 Performance de Vendas: Planejado vs Realizado. 
+
 💡 Pitch: Monitoramento estratégico de metas comerciais através de indicadores dinâmicos de faturamento, métricas de atingimento (Gap Analysis) e performance por categoria.
 
 
